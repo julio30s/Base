@@ -1,10 +1,14 @@
 
-package Formularios;
-import Formularios.*;
+package Vista;
+import Formularios.JDEntradas;
 import Formularios.JDEntradas;
 import Formularios.JDFacultades;
+import Formularios.JDFacultades;
+import Formularios.JDSalidas;
 import Formularios.JDSalidas;
 import Formularios.JDcarrera;
+import Formularios.JDcarrera;
+import Formularios.JDcursos;
 import Formularios.JDcursos;
 /**
  *
